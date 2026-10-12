@@ -1,0 +1,1 @@
+[{"uid":"f53ffb3896a0ceb6","name":"@smoketcregister","time":{"start":1791560589542,"stop":1791560598710,"duration":9168},"status":"passed","severity":"normal"},{"uid":"ca8c79e94e8f639b","name":"login@sanity","time":{"start":1791560589544,"stop":1791560594026,"duration":4482},"status":"passed","severity":"normal"}]
